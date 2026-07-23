@@ -132,7 +132,25 @@ footer{
     text-align:center;
     padding:25px;
 }
+.whatsapp-btn{
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background:#25D366;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    box-shadow:0 4px 12px rgba(0,0,0,0.3);
+    z-index:9999;
+}
 
+.whatsapp-btn img{
+    width:35px;
+    height:35px;
+}
 .whatsapp-btn{
     position:fixed;
     right:20px;
