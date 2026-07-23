@@ -190,3 +190,17 @@ nav a{
 .whatsapp-btn:hover{
     background:#1ebe5d;
 }
+.products{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:25px;
+margin-top:30px;
+}
+
+.card{
+background:#fff;
+padding:20px;
+border-radius:15px;
+text-align:center;
+box-shadow:0 8px 20px rgba(0,0,0,.1);
+}
