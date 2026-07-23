@@ -282,3 +282,18 @@ nav a{
     color:#d4af37;
     margin-bottom:10px;
 }
+.featured{
+    text-align:center;
+    padding:60px 20px 30px;
+}
+
+.featured h2{
+    font-size:36px;
+    color:#000;
+    margin-bottom:10px;
+}
+
+.featured p{
+    color:#666;
+    font-size:18px;
+}
