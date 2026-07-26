@@ -207,3 +207,53 @@ box-shadow:0 5px 15px rgba(0,0,0,.08);
     text-align:center;
     background:#f8f8f8;
 }
+.hero{
+    min-height:100vh;
+    background:linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
+    url("images/hero.jpg");
+    background-size:cover;
+    background-position:center;
+    color:white;
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:25px 8%;
+}
+
+nav ul{
+    display:flex;
+    list-style:none;
+    gap:30px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    font-weight:600;
+}
+
+.logo{
+    color:#d4af37;
+}
+
+.hero-content{
+    text-align:center;
+    margin-top:180px;
+}
+
+.hero-content h2{
+    font-size:55px;
+}
+
+.hero-content p{
+    margin:20px 0;
+    font-size:22px;
+}
+
+.secondary{
+    background:#d4af37;
+    margin-left:15px;
+}
