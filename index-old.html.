@@ -1,1 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FT Fittings | Premium Fashion</title>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<a href="https://wa.me/2349035434936?text=Hi%20FT%20Fittings,%20I'm%20interested%20in%20your%20products." class="whatsapp-btn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+</a>
+<body>
+
+<header>
+
+<header class="hero">
+
+<nav>
+
+<h1 class="logo">FT FITTINGS</h1>
+
+<ul>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#collections">Collections</a></li>
+
+<li><a href="#featured">Featured</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<div class="hero-content">
+
+<h2>Traditional • Streetwear • Vintage</h2>
+
+<p>Designed to Fit, Crafted to Last.</p>
+
+<a href="#collections" class="btn">Explore Collections</a>
+
+<a href="https://wa.me/2349035434936" class="btn secondary">Order on WhatsApp</a>
+
+</div>
+
+</header>
+</header>
+
+<section class="hero" id="home">
+
+<h1>Designed to Fit.<br>Crafted to Last.</h1>
+
+<p>
+Premium Kaftans, Jalabiyas, Joggers, Complete Sets & Fashion Accessories.
+</p>
+
+<a href="#shop" class="btn">
+Shop Collection
+</a>
+
+</section>
+<section class="featured" id="shop">
+
+<h2>Our Featured Collection</h2>
+
+<p>
+Luxury fashion tailored with precision and style.
+</p>
+
+<div class="products">
+
+<div class="card">
+
+<img src="images/IMG_5020.jpeg" alt="Kaftan">
+
+<h3>Premium Hoodie</h3>
+
+
+<p class="price">₦45,000</p>
+
+<a href="https://wa.me/2349035434936?text=Hi%20FT%20Fittings,%20I%20want%20to%20order%20a%20Kaftan." class="btn">
+Order Now
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>Luxury Jalabiya</h3>
+
+<p class="price">₦35,000</p>
+
+<a href="https://wa.me/2349035434936?text=Hi%20FT%20Fittings,%20I'm%20interested%20in%20the%20Jalabiya." class="btn">
+Order Now
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>Premium Joggers</h3>
+
+<p class="price">₦20,000</p>
+
+<a href="https://wa.me/2349035434936?text=Hi%20FT%20Fittings,%20I'm%20interested%20in%20the%20Joggers." class="btn">
+Order Now
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>Complete Set</h3>
+
+<p class="price">₦45,000</p>
+
+<a href="https://wa.me/2349035434936?text=Hi%20FT%20Fittings,%20I'm%20interested%20in%20the%20Complete%20Set." class="btn">
+Order Now
+</a>
+
+</div>
+
+<div class="card">
+
+<h3>FT Fittings Cap</h3>
+
+<p class="price">₦10,000</p>
+
+<a href="https://wa.me/2349035434936?text=Hi%20FT%20Fittings,%20I'm%20interested%20in%20the%20Cap." class="btn">
+Order Now
+</a>
+
+</div>
+
+</div>
+
+</section>
+<section id="about" class="about">
+
+    <h2>About FT Fittings</h2>
+
+    <p>
+        FT Fittings is a premium fashion brand based in Benin City, Edo State.
+        We specialize in luxury Kaftans, Jalabiyas, Joggers, Complete Sets, and
+        stylish Caps. Every piece is designed with quality craftsmanship,
+        elegance, and comfort in mind.
+    </p>
+
+    <p>
+        Our mission is simple:
+        <strong>Designed to Fit. Crafted to Last.</strong>
+    </p>
+
+</section>
+<section class="why-us">
+
+    <h2>Why Choose FT Fittings?</h2>
+
+    <div class="features">
+
+        <div class="feature">
+            <h3>Premium Quality</h3>
+            <p>Every outfit is made with attention to detail and premium materials.</p>
+        </div>
+
+        <div class="feature">
+            <h3>Custom Fit</h3>
+            <p>Designed to match your style and fit you perfectly.</p>
+        </div>
+
+        <div class="feature">
+            <h3>Fast Delivery</h3>
+            <p>Reliable delivery across Nigeria.</p>
+        </div>
+
+        <div class="feature">
+            <h3>Easy Ordering</h3>
+            <p>Order directly through WhatsApp with one click.</p>
+        </div>
+
+    </div>
+
+</section>
+    <section class="testimonials">
+
+<h2>What Our Customers Say</h2>
+
+<div class="testimonial">
+
+<p>
+⭐⭐⭐⭐⭐
+<br><br>
+"The quality is outstanding and the fitting was perfect. I'll definitely order again!"
+</p>
+
+<h4>- Happy Customer</h4>
+
+</div>
+
+<div class="testimonial">
+
+<p>
+⭐⭐⭐⭐⭐
+<br><br>
+"Fast delivery and premium craftsmanship. FT Fittings never disappoints."
+</p>
+
+<h4>- Satisfied Client</h4>
+
+</div>
+
+</section>
+    <section class="new-arrivals">
+
+<h2>🔥 New Arrivals</h2>
+
+<div class="products">
+
+<div class="card">
+<h3>Premium Kaftan</h3>
+<p>₦45,000</p>
+<a href="https://wa.me/2349035434936?text=Hi FT Fittings, I'm interested in the Premium Kaftan." class="btn">Order Now</a>
+</div>
+
+<div class="card">
+<h3>Luxury Jalabiya</h3>
+<p>₦35,000</p>
+<a href="https://wa.me/2349035434936?text=Hi FT Fittings, I'm interested in the Luxury Jalabiya." class="btn">Order Now</a>
+</div>
+
+<div class="card">
+<h3>Premium Joggers</h3>
+<p>₦20,000</p>
+<a href="https://wa.me/2349035434936?text=Hi FT Fittings, I'm interested in the Premium Joggers." class="btn">Order Now</a>
+</div>
+
+</div>
+<section class="delivery">
+
+<h2>📦 Delivery Information</h2>
+
+<p>
+✅ Nationwide delivery across Nigeria.
+</p>
+
+<p>
+🚚 Fast and secure shipping.
+</p>
+
+<p>
+💬 Orders are confirmed through WhatsApp.
+</p>
+
+</section>
+</section>
+<section id="contact" class="contact">
+
+    <h2>Contact Us</h2>
+
+    <p><strong>📍 Location:</strong> Benin City, Edo State</p>
+
+    <p><strong>📞 WhatsApp:</strong> +2349035434936</p>
+
+    <p><strong>📧 Email:</strong> preciousogbaretin615@gmail.com</p>
+
+    <p><strong>🎵 TikTok:</strong> @Yuwa_fittings</p>
+
+    <a href="https://wa.me/2349035434936?text=Hello%20FT%20Fittings,%20I'm%20interested%20in%20your%20products." class="btn">
+        Chat on WhatsApp
+    </a>
+
+</section>
+<footer>
+
+    <p>&copy; 2026 FT Fittings. All Rights Reserved.</p>
+
+    <p>Designed to Fit. Crafted to Last.</p>
+
+</footer>
