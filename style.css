@@ -157,28 +157,18 @@ h1,h2,h3{
    HERO
 =========================== */
 
-.hero{
 
+    .hero{
+    width:100%;
     height:100vh;
+    overflow:hidden;
+}
 
-    background:
-
-    linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)),
-
-    url("images/hero.jpg");
-
-    background-size:cover;
-
-    background-position:center;
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-    text-align:center;
-
+.hero-banner{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
 }
 
 .hero-content{
