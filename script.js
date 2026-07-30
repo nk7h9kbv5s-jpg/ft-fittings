@@ -15,3 +15,20 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 });
+.hero{
+    width:100%;
+    background:#000;
+    overflow:hidden;
+}
+
+.hero-banner{
+    width:100%;
+    display:block;
+}
+
+@media (max-width:768px){
+    .hero-banner{
+        width:100%;
+        height:auto;
+    }
+}
